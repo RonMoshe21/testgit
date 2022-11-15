@@ -1,1 +1,1 @@
-print("fuck you")
+abs(1)
